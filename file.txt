@@ -1,0 +1,4 @@
+"firstName":"Rohit",
+"lastName":"Gupta",
+"course":"mca",
+"age":23
